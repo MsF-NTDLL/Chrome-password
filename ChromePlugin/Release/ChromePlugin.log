@@ -1,0 +1,11 @@
+﻿  stdafx.cpp
+  ChromePlugin.cpp
+C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\include\ShlObj.h(1151): warning C4091: “typedef ”: 没有声明变量时忽略“tagGPFIDL_FLAGS”的左侧
+  dllmain.cpp
+  sqlite3.c
+    正在创建库 C:\Users\lxg\Documents\Visual Studio 2015\Projects\ChromePlugin\Release\ChromePlugin.lib 和对象 C:\Users\lxg\Documents\Visual Studio 2015\Projects\ChromePlugin\Release\ChromePlugin.exp
+  正在生成代码
+  All 1941 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  ChromePlugin.vcxproj -> C:\Users\lxg\Documents\Visual Studio 2015\Projects\ChromePlugin\Release\ChromePlugin.dll
+  ChromePlugin.vcxproj -> C:\Users\lxg\Documents\Visual Studio 2015\Projects\ChromePlugin\Release\ChromePlugin.pdb (Full PDB)

@@ -1,0 +1,7 @@
+﻿  stdafx.cpp
+  ChromePlugin.cpp
+  dllmain.cpp
+  sqlite3.c
+    正在创建库 C:\Users\lxg\Documents\Visual Studio 2015\Projects\ChromePlugin\Debug\ChromePlugin.lib 和对象 C:\Users\lxg\Documents\Visual Studio 2015\Projects\ChromePlugin\Debug\ChromePlugin.exp
+  ChromePlugin.vcxproj -> C:\Users\lxg\Documents\Visual Studio 2015\Projects\ChromePlugin\Debug\ChromePlugin.dll
+  ChromePlugin.vcxproj -> C:\Users\lxg\Documents\Visual Studio 2015\Projects\ChromePlugin\Debug\ChromePlugin.pdb (Full PDB)
